@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Enemy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jugurta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
